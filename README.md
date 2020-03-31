@@ -35,6 +35,10 @@ I share the trained model with you. You can find it [here](https://drive.google.
 To try application with webcam, run below code.
 
 ``` 
+
 python camera_mask_control.py
 
 ```
+
+> NOTE: I am still trying to expand the dataset even more. I will also continue to develop the model using the extended database and pre-trained model. When I complete the dataset, It will be public.
+
