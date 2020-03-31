@@ -1,0 +1,21 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+glob2=0.7=py_0
+keras=2.3.0=pypi_0
+keras-applications=1.0.8=pypi_0
+keras-preprocessing=1.1.0=pypi_0
+matplotlib=3.1.0=py37h54f8f79_0
+numpy=1.15.4=pypi_0
+numpydoc=0.9.1=py_0
+opencv-python=4.1.1.26=pypi_0
+pandas=0.24.2=py37h0a44026_0
+pillow=5.4.0=pypi_0
+pip=20.0.2=pypi_0
+python=3.7.3=h359304d_0
+python-resize-image=1.1.19=pypi_0
+python-vlc=3.0.7110=pypi_0
+python.app=2=py37_9
+
+
+
