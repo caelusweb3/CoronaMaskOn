@@ -20,3 +20,18 @@ Dataset includes masked human faces and unmasked human faces.
 
 - The pictures were downloaded from google with the [chrome extension](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm).
 - Faces in the pictures were detected and extracted with the Opencv library. After that converted to grayscale format. 
+
+![](images/prepare_data.png)
+
+# Training
+Training details are in this notebook: [training.ipynb](training.ipynb).
+
+![](images/accuracy.png)
+
+# Try It Yourself
+
+I share the trained model with you. You can find it [here](https://drive.google.com/open?id=1nRxPkhaljcz53KJCN51p2DHrobVLQAnB).
+
+To try application with webcam, run below code.
+
+python camera_mask_control.py
