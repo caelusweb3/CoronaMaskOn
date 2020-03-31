@@ -19,4 +19,4 @@ Dataset includes masked human faces and unmasked human faces.
 ![](images/dataset.png)
 
 - The pictures were downloaded from google with the [chrome extension](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm).
-- Faces in the pictures were detected and extracted with the Opencv library. After that converted to grayscale format.
+- Faces in the pictures were detected and extracted with the Opencv library. After that converted to grayscale format. 
