@@ -40,5 +40,5 @@ python camera_mask_control.py
 
 ```
 
-> NOTE: I am still trying to expand the dataset even more. I will also continue to develop the model using the extended database and pre-trained model. When I complete the dataset, It will be public.
+> NOTE: I am still trying to expand the dataset even more. I will also continue to develop the model using with extended dataset and pre-trained model. When I complete the dataset, It will be public.
 
