@@ -34,4 +34,7 @@ I share the trained model with you. You can find it [here](https://drive.google.
 
 To try application with webcam, run below code.
 
-``` python camera_mask_control.py ```
+``` 
+python camera_mask_control.py
+
+```
