@@ -10,7 +10,8 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
 
 # Demo Video
-You can reach demo video [here](https://khan.github.io/KaTeX/).
+You can reach demo video [here](https://www.loom.com/share/ffe622e9e0534febb4792c29c04ed288).
+
 
 
 # Dataset 
