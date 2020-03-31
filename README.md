@@ -1,2 +1,4 @@
 # CoronaMaskOn
- Mask On-Off control with computer vision
+Mask control with computer vision
+
+![](images/corona.png)
