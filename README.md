@@ -11,8 +11,9 @@ Most people infected with the COVID-19 virus will experience mild to moderate re
 
 # Demo Video
 You can reach demo video [here](https://www.loom.com/share/ffe622e9e0534febb4792c29c04ed288).
-![](images/mask_off.png) ![](images/mask_on.png)
 
+<img width="460" height="300" src="images/mask_off.png" align="left">
+<img width="460" height="300" src="images/mask_on.png" align="right">
 
 # Dataset 
 Dataset includes masked human faces and unmasked human faces.
